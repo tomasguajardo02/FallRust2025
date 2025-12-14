@@ -1,0 +1,9 @@
+[package]
+name = "parallel_file_processor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.3"
+encoding_rs = "0.8"
+crossbeam-channel = "0.5"
